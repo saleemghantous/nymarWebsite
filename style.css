@@ -5,6 +5,7 @@
 	height: 7%;
 	background-color: blue;
 	font-size: 15px;
+	position:fixed;
 }
 
 
@@ -39,10 +40,9 @@ section{
 
 #about{
 	color: black;
-	padding-left: 200px ;
-	padding-right: 200px;
+
 	font-size: 20px;
-	text-align: left;
+	text-align: center;
 	
 }
 
